@@ -14,8 +14,8 @@ _"No importa qué tan lento avances, mientras no te detengas."_ 🐢⚡
 ---
 
 ## 📫 ¿Dónde encontrarme
--  sebastianantezana222@gmail.com
-- +591 68448828
+- GitHub: [https://github.com/tu-SEBASTIAN1SAC1](https://github.com/SEBASTIAN1SAC1)
+- Correo: sebastianantezana222@gmail.com
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEBASTIAN1SAC1&show_icons=true&theme=tokyonight)
