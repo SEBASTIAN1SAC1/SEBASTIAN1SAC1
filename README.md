@@ -18,4 +18,4 @@ _"No importa qué tan lento avances, mientras no te detengas."_ 🐢⚡
 - +591 68448828
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEBASTIANA1SAC1&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEBASTIAN1SAC1&show_icons=true&theme=tokyonight)
