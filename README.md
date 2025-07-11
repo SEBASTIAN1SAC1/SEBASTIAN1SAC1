@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sebastian Antezana
 
-<!--
-**SEBASTIAN1SAC1/SEBASTIAN1SAC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas 
+💡 Apasionado por la tecnología, la lógica y crear cosas útiles con código  
+🌱 Actualmente aprendiendo Git, GitHub y desarrollo web  
+🚀 Me gusta resolver problemas, aprender cosas nuevas y compartir el conocimiento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Frase que me representa
+
+_"No importa qué tan lento avances, mientras no te detengas."_ 🐢⚡
+
+---
+
+## 📫 ¿Dónde encontrarme
+-  sebastianantezana222@gmail.com
+- +591 68448828
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
